@@ -17,4 +17,10 @@
 
 ---
 
+## lista qualquer de exemplo
+
+1. Versionamento
+2. github
+3. vidual studio code
+
 
